@@ -268,3 +268,10 @@ footer {
     color:#444;
   }
 }
+
+.rect {
+  width: 300px;
+  height: 150px;
+  background: #e0e0e0; /* light gray rectangle */
+}
+
