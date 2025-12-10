@@ -275,3 +275,10 @@ footer {
   background: #e0e0e0; /* light gray rectangle */
 }
 
+.backdrop {
+  height: 200px;
+  background-color: #3b82f6; /* blue */
+  border-radius: 0;   /* make it a perfect square */
+  padding: 20px;     /* adds space inside */
+  width: fit-content;
+}
